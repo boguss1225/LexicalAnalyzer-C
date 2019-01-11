@@ -6,7 +6,7 @@
 &nbsp;&nbsp; Finally, coding Lexical Analyzer made in C language to Python language Again.\ 
 &nbsp;&nbsp; Source made in Python lang > https://github.com/boguss1225/LexicalAnalyzer-Python
 # Description
-## 1. Purpose of program
+## Purpose of program
 &nbsp;&nbsp; Focused on recognizing series of strings in a text file (or .in) format, categorizing them as reserved words and that are not, and Tokenizing.
 ## Core methods
 * **main()** –Outermost function of forming an input stream that recognizes the text file(front.in) and executing the entire code. If there is no loaded file (Null), the error message ("ERROR - cannot open front.in \n") will be displayed through stdout. It is implemented to continue calling the key method, the lex() function, until the token reaches the EOF.
