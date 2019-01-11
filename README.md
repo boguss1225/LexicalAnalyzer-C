@@ -4,6 +4,7 @@
 &nbsp;&nbsp; This program is mainly focused on the solution of the exercise number 5 and 6 in the textbook, Concepts of Programming Languages 10th edition(chapter 4).\
 &nbsp;&nbsp; Already given the big picture and algorithm of the Lexical Analyzer in the textbook, all I had done on this was adding some extra functions such as recognizing reserved words(include for, if, else, while, do, int, float, switch) and returning token code. \
 &nbsp;&nbsp; Finally, coding Lexical Analyzer made in C language to Python language Again. 
+&nbsp;&nbsp; Source made in Python lang > https://github.com/boguss1225/LexicalAnalyzer-Python
 # Description
 ## 1. Purpose of program
 &nbsp;&nbsp; Focused on recognizing series of strings in a text file (or .in) format, categorizing them as reserved words and that are not, and Tokenizing.
